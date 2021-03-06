@@ -5,7 +5,7 @@ A equipe de desenvolvimento é composta por mim, Gabriel Barros Aragão Silva e 
 Nesta unidade foi proposto o desenvolvimento de um back-end que fosse capaz de executar as operações CRUD do tema escolhido pela equipe e trata-se do back-end de um futuro sistema
 de rastreio de encomendas ao qual na unidade posterior será desenvolvido o front-end como um último trabalho de avaliação.
 Nestre trabalho usamos dependências apresentadas em sala como:
->>>>>>> 7788e7ba457ad5805a7173e5629c6d1d1824ecf6
+
 Express (Criação e manipulação de rotas para o CRUD de clientes e encomendas)
 Mongoose (Comunicação entre a aplicação e o banco de dados não relacional MongoDB)
 Docker (Virtualização do MongoDB para adaptação a utilização da ferramenta futuramente)
